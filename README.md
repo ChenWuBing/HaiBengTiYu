@@ -1,5 +1,5 @@
 # 嗨蹦体育
 
-We are providing online bookings for major stadiums. Users can make reservations for the use of the stadium through our platform. Our platform has four types: “保龄球”、“足球场”、“网球场”、“篮球场”. Reservations are available for a total of 100+ venues.
+We are an app dedicated to making an online appointment for a trampoline. Users who like trampolines can choose the trampoline venue they want through our platform. All the trampolines on our platform are high quality venues, high quality, beautiful environment and good service. Users can play with confidence.
 
 If you have any questions, please contact the technical support email:rivitt@163.com, Thank you for your support.
