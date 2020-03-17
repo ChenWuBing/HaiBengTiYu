@@ -1,5 +1,5 @@
-# 习乐坊
+# 金花俱乐部
 
-We are an app dedicated to making online reservations for music learning. Users who like music can choose their favorite music instruments to learn through our platform. All musical instruments on our platform are high quality, high quality appliances. Beautiful environment and excellent service. Users can feel free to appreciate and learn.
+我们是一个专门为广大用户提供在线预订温泉的俱乐部平台，用户可以通过我们的俱乐部平台预约到各地有名的、评价非常高的、极其受广大用户喜爱的各式各样的温泉，专门的贴心服务。还在等待什么，心动不如行动。
 
-If you have any questions, please contact the technical support email:phanlieu19653r@gmail.com, Thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：qb2048@126.com，谢谢您的支持。
