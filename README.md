@@ -1,5 +1,5 @@
-# 海蓝体育
+# Scoring Sports
 
-我们是一个专门为广大用户提供在线预订游泳场馆的平台，海量积分商品共用户选择，还有泳池举办的各式各样的比赛可供参加。用户可以通过我们的平台预约到各地有名的、评价非常高的、极其受广大用户喜爱的各式各样的游泳场馆，专门的贴心服务。还在等待什么，心动不如行动。
+This is a scoring and timekeeping tool specially set for sports competitions, which can effectively and accurately record the real data of each game, make normal games more standardized, and is a right-hand man for every game
 
-如有任何疑问，请联系技术支持电子邮件：qb2048@126.com，谢谢您的支持。
+If you have any questions, please contact the technical support email: qshqbblframhjq@hotmail.com, thank you for your support.
