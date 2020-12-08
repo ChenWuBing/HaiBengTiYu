@@ -1,5 +1,5 @@
-# Scoring Sports
+# 球琛体育--专业篮球计分器
 
-This is a scoring and timekeeping tool specially set for sports competitions, which can effectively and accurately record the real data of each game, make normal games more standardized, and is a right-hand man for every game
+这是专门为体育比赛设置的计分计时工具，可以有效，准确地记录每场比赛的真实数据，使常规比赛更加规范，是每场比赛的得力助手。
 
-If you have any questions, please contact the technical support email: qshqbblframhjq@hotmail.com, thank you for your support.
+如果您有任何疑问，请联系技术支持电子邮件：xuanaizxc@icloud.com，谢谢您的支持。
