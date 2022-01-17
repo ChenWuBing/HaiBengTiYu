@@ -1,5 +1,7 @@
-# Score For Football
+#STC Butler
 
-This is a scoring and timing tool specially set up for football sports games, which can effectively and accurately record the real data of each game, make regular games more standardized, and is a right-hand man for every game.
+STC 全称：smart control。
 
-If you have any questions, please contact the technical support email: AfrinCordobesrT@aol.com, thank you for your support.
+我们是一个专门做智能设备管理的平台，用户可以在我们平台上绑定和使用他们的蓝牙智能设备，可以是跳绳、筋膜枪、跑步机等。这样更加方便的控制运动设备。
+
+如有任何问题，请联系技术支持邮箱：gzx0116@gmail.com，感谢您的支持。 
